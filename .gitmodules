@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "bayesDccGarch"]
+	path = bayesDccGarch
+	url = https://github.com/jafiorucci/bayesdccgarch
+	shallow = true
+	registered = true
